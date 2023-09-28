@@ -1,0 +1,11 @@
+{
+    "name": "mohamed/mvc",
+    "autoload": {
+       "classmap": [
+           "./"
+       ]
+        },
+    "require": {
+      "ext-pdo": "*"
+    }
+}
